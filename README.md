@@ -32,14 +32,7 @@ The primary goal of this project is to predict **rainfall** levels using histori
 ### 📊 Model Evaluation
 - The LSTM model was evaluated using **Root Mean Squared Error (RMSE)**.
 
-## 🏆 Results
 
-### 🔹 LSTM Model
-| Model               | RMSE      |
-|---------------------|-----------|
-| LSTM Model          | XX.XXXX   |
-
-- **LSTM** demonstrated an ability to capture sequential patterns in time-series data, providing an accurate rainfall prediction.
 
 ## 📍 Challenges
 - Handling **missing data** for several features.
