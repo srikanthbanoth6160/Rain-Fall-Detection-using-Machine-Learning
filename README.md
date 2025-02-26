@@ -1,4 +1,4 @@
-# 🌧️ Weather Prediction using LSTM
+# 🌧️ Rain Fall Detection using LSTM
 
 ## 🚀 Introduction
 This project implements **time-series forecasting** using **LSTM (Long Short-Term Memory)** to predict rainfall based on historical weather data from Australia. By leveraging deep learning models, this project aims to improve the accuracy of weather predictions for better planning and decision-making.
